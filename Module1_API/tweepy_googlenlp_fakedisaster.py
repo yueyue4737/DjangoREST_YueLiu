@@ -82,6 +82,7 @@ def sentiment_analysis(text):
     return sentiment.score
 
 if __name__ == '__main__':
+if __name__ == '__main__':
     # the menu
     print("Hit control-z when you want to terminate the streaming!")
     # get the published tweet dataset
@@ -101,7 +102,9 @@ if __name__ == '__main__':
         score_i = sentiment_analysis(i.text)
         score.append(score_i)
     sentiment_df = pd.DataFrame(data=[tweet.text for tweet in tweets], columns=['Tweets'])
-    sentiment_df['sentiment'] = np.array([score])
+    sentiment_df['sentiment'] = np.array([s for s in score])
+    # print(len(score))
+    # print(len(tweets))
     # get the real-time data set
     my_listener = StdOutListener()
     stream = tweepy.Stream(auth, my_listener)
