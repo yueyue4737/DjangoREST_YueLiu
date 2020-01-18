@@ -27,10 +27,16 @@ Example Implementation
 <p>Detail information of every transaction the user may run using your system<p>
 <p>Store all relevant information for every time a user uses your application<p>
 
-####Go back to mini-Project 1:  Twitter+Google NLP
+Go back to mini-Project 1:  Twitter+Google NLP
+--------
 <p>Add API and develop test program to
 Search for certain words and retrieve which user/session that has this work in it.<p>  
 <p>For example, search for ‘basketball”, and get results of which user had Basketball in their sessions.<p>
-####Do two database implementations with MySQL and MongoDB
+Do two database implementations with MySQL and MongoDB
+--------
 <p>Collective statistics about overall usage of the system.<p>  
 <p>For example,Track tweets(Track sentiments+Draw Plots)<p>
+  
+New Report(revising)
+------
+<p> former draft: https://docs.google.com/document/d/16QcWpQQAjGRBR2D5RS91LO-QobxsKP3WgXyfDvgBHZc/edit?usp=sharing<p>
