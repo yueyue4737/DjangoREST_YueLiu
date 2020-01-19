@@ -40,3 +40,4 @@ Do two database implementations with MySQL and MongoDB
 New Report(revising)
 ------
 <p> former draft: https://docs.google.com/document/d/16QcWpQQAjGRBR2D5RS91LO-QobxsKP3WgXyfDvgBHZc/edit?usp=sharing<p>
+<p> latest draft: https://docs.google.com/document/d/190euj6HmliV2ACtB3lCs1nLKEobLMxuvHtR1Wkf1I40/edit# <p>
